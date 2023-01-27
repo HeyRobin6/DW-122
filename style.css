@@ -1,0 +1,36 @@
+body {
+    background-color: #191919;
+}
+
+.day {font-size: 40px;
+    color: #d4d4d4;
+    font-family: sans-serif;
+    font-weight: 4000;
+    line-height: 40px;
+    font-size: 39px;
+    letter-spacing: 0px
+    ;}
+
+.month {font-size: 20px;
+    color: #d4d4d4;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    line-height: 5px;
+    font-size: 16px;
+    letter-spacing: 0.2px
+    ;}
+
+.year {font-size: 20px;
+    color: #d4d4d4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size:15.5px ;
+    letter-spacing: 0.2px
+    ;}
+
+.watermark{
+    position: relative;
+    right: 9px;
+    bottom: 30px;
+}
+
